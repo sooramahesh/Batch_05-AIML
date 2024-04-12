@@ -4,3 +4,7 @@ Batch_05-AIML
 3. [ https://github.com/sooramahesh/Batch_05-AIML/blob/main/Assignmnet3.ipynb ]
 4. [ https://github.com/sooramahesh/Batch_05-AIML/blob/main/Assignment_04.ipynb ]
 5. [ https://github.com/sooramahesh/Batch_05-AIML/blob/main/Assignment_05.ipynb ]
+6. [ https://github.com/sooramahesh/Batch_05-AIML/blob/main/Assignment_06.ipynb ]
+7. [ https://github.com/sooramahesh/Batch_05-AIML/blob/main/Assignment_07.ipynb ]
+8. [  ]
+9. [  ]
